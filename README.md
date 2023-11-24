@@ -1,4 +1,6 @@
-Task management application
+
+                                                    Task management application
+
 ‎
 TaskMate is a personal task management app that improves users' productivity by organizing daily tasks and ensuring their successful completion.
   Users can rely on this application to improve their time management and increase their effectiveness in completing daily tasks.
