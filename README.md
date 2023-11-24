@@ -43,5 +43,16 @@ TaskMate can help users achieve personal organization and increase productivity,
 And follow up on progress and achievements, which enhances the effectiveness of time management and achieving goals efficiently.
 
 Contributors
-
+ 
+1.	فاطمه علي البريدي 
+2.	هاجر عبدالله عسيري 
+3.	سهام علي عسيري
+4.	ندى احمد
+   
 to contact us
+
+1.	444815826@kku.edu.sa
+2.	444816430@kku.edu.sa
+3.	444816736@kku.edu.sa
+4.	444816749@kku.edu.sa
+
